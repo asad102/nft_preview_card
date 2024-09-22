@@ -30,7 +30,6 @@ Users should be able to:
 ### Screenshot
 
 ![./img/Screenshot.png](./img/Screenshot.png)
-![./img/Screenshotm.png](./img/Screenshotm.png)
 
 
 
