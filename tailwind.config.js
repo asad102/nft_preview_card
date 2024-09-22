@@ -69,6 +69,7 @@ module.exports = {
     },
     height : {
       avh : '33px',
+      auto : 'auto'
     },
     dropShadow : {
       cardshadow : '0 25px 50px 0, rgba(0,0,0,9.53%)',
