@@ -8,34 +8,26 @@ module.exports = {
       'Outfit' : ['Outfit', 'sans'],
     },
     fontSize : {
-      'heading' : [
-        '22px', {
-          lineHeight : 'auto',
+      'heading' : ['22px', {
+          lineHeight : '28px',
           letterSpacing : '0px',
           fontWeight : '600'
-        }
-      ],
-      'body' :[
-        '18px', {
+        }],
+      'body' :['18px', {
           lineHeight : '26px',
           letterSpacing : '0px',
           fontWeight : '300'
-        }
-      ],
-      'caption' : [
-        '16px', {
-          lineHeight : 'auto',
+        }],
+      'caption' : ['16px', {
+          lineHeight : '20px',
           letterSpacing : '0px',
           fontWeight : '400'
-        }
-      ],
-      'caption-bold' : [
-        '16px', {
-          lineHeight : 'auto',
+        }],
+      'caption-bold' : ['16px', {
+          lineHeight : '20px',
           letterSpacing : '0px',
           fontWeight : '600'
-        }
-      ],
+        }],
     },
     colors : {
       blue : {
