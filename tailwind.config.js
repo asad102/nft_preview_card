@@ -33,7 +33,7 @@ module.exports = {
         '16px', {
           lineHeight : 'auto',
           letterSpacing : '0px',
-          fontWeight : '700'
+          fontWeight : '600'
         }
       ],
     },
@@ -55,6 +55,8 @@ module.exports = {
       650 : '8px',
       700 : '16px',
       800 : '24px',
+      890 : '32px',
+      900 : '33px'
     },
     borderWidth : {
       1 : '1px',
@@ -64,13 +66,13 @@ module.exports = {
       800 : '8px',
       full : '9999px;'
     },
-    width : {
-      avw : '33px',
-    },
-    height : {
-      avh : '33px',
-      auto : 'auto'
-    },
+    // width : {
+    //   avw : '33px',
+    // },
+    // height : {
+    //   avh : '33px',
+    //   auto : 'auto'
+    // },
     dropShadow : {
       cardshadow : '0 25px 50px 0, rgba(0,0,0,9.53%)',
     },
