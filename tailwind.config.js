@@ -43,6 +43,7 @@ module.exports = {
       sc : '350px'
     },
     spacing : {
+      100 : '1px',
       600 : '6px',
       650 : '8px',
       700 : '16px',
@@ -58,13 +59,6 @@ module.exports = {
       800 : '8px',
       full : '9999px;'
     },
-    // width : {
-    //   avw : '33px',
-    // },
-    // height : {
-    //   avh : '33px',
-    //   auto : 'auto'
-    // },
     dropShadow : {
       cardshadow : '0 25px 50px 0, rgba(0,0,0,9.53%)',
     },
