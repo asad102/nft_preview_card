@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/asad102/nft_preview_card](https://github.com/asad102/nft_preview_card)
-- Live Site URL: [https://asad102.github.io/nft_preview_card/]https://asad102.github.io/nft_preview_card/)
+- Live Site URL: [https://asad102.github.io/nft_preview_card/](https://asad102.github.io/nft_preview_card/)
 
 ## My process
 
